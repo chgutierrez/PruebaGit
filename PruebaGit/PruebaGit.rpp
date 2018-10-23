@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.95/x64" 1540243851
+<REAPER_PROJECT 0.1 "5.95/x64" 1540245328
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 538.29685416666666
+  CURSOR 480
   ZOOM 1.1747815778626 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 456 464
+  SELECTION2 456 464
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -95,7 +95,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -141,7 +141,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -187,7 +187,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -233,7 +233,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -291,7 +291,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -347,7 +347,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -1999,7 +1999,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -3687,7 +3687,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -3743,7 +3743,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -3799,7 +3799,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -3855,7 +3855,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -4473,7 +4473,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -5321,7 +5321,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -12021,7 +12021,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -16041,7 +16041,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -16543,7 +16543,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -17365,7 +17365,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -17525,7 +17525,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -18563,164 +18563,6 @@
       >
     >
   >
-  <TRACK {1A79D5DF-06BE-485E-836D-08E95EB38B48}
-    NAME "untitled - GetluckyfeatPharrellWilliams.mid [chan 15] [chan 15]"
-    PEAKCOL 30677903
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 1
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {1A79D5DF-06BE-485E-836D-08E95EB38B48}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 38.5
-      SNAPOFFS 0
-      LENGTH 242
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {5B537749-985E-4CA9-85D4-3F34656EDD04}
-      IID 24
-      NAME "untitled - GetluckyfeatPharrellWilliams.mid [chan 15]"
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E01C3A46-D206-4E1E-9E62-DF0AA9020961}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        POOLEDEVTS {DFDF802C-5223-483F-894F-39810BC67ECC}
-        E 84 be 65 00
-        E 2 be 64 00
-        E 2 be 06 0c
-        E 2 be 26 00
-        E 464550 b0 7b 00
-        GUID {D41A7758-B668-43C4-8CF2-15A7D160720E}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 50
-        VELLANE -1 100 0
-      >
-    >
-  >
-  <TRACK {89E902E1-9385-4172-B1BE-07090AC43BC7}
-    NAME "untitled - GetluckyfeatPharrellWilliams.mid [chan 16] [chan 16]"
-    PEAKCOL 33516680
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 1
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {89E902E1-9385-4172-B1BE-07090AC43BC7}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 38.5
-      SNAPOFFS 0
-      LENGTH 242
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {9E3D9E17-FAF4-4045-B07B-D108B28FAB26}
-      IID 25
-      NAME "untitled - GetluckyfeatPharrellWilliams.mid [chan 16]"
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F63FFBAC-EA1A-4162-8E4A-BCD94ACAED84}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        POOLEDEVTS {F4FAFBA4-44DC-4992-A625-3BFABA6D7F08}
-        E 90 bf 65 00
-        E 2 bf 64 00
-        E 2 bf 06 0c
-        E 2 bf 26 00
-        E 464544 b0 7b 00
-        GUID {72F28AE8-638C-404B-87AB-193E2DE6980F}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 52
-        VELLANE -1 100 0
-      >
-    >
-  >
-  <TRACK {2D16196F-A9E1-44D1-A95F-91D57049BA81}
-    NAME 74913__mrmayo__arcade
-    PEAKCOL 26330002
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    ISBUS 0 0
-    BUSCOMP 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 1
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {2D16196F-A9E1-44D1-A95F-91D57049BA81}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 280.5
-      SNAPOFFS 0
-      LENGTH 60.30533333333333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {0B615C5C-AC6B-4FE2-92A9-AFFAC2798A85}
-      IID 26
-      NAME 74913__mrmayo__arcade.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {14C03427-0059-49B9-9DFF-0474C6C01B5A}
-      <SOURCE WAVE
-        FILE "74913__mrmayo__arcade.wav"
-      >
-    >
-  >
   <TRACK {A3250E31-D59A-4E66-88FB-FBB3A4177795}
     NAME 390743__icenhower__oldtruckcutsoff
     PEAKCOL 33526138
@@ -18733,7 +18575,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -18801,7 +18643,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -18821,7 +18663,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {38C30DFF-7EF2-4505-A593-624393DC8529}
       IID 37
       NAME "DTCK GLASS SMASH Big Drop and Smash.wav"
@@ -18847,7 +18689,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -18867,7 +18709,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {F73277D7-C365-4350-99CA-AB796BDB0695}
       IID 38
       NAME "DTCK METAL CRASH Medium Multi Long.wav"
@@ -18893,7 +18735,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -18913,7 +18755,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {91A4355D-03F8-4F74-958C-55CBABFD2AF9}
       IID 39
       NAME "DTCK ROCK IMPACT Brick Metal Multi.wav"
@@ -18939,7 +18781,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -18959,7 +18801,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {7CD62076-A27A-43B2-A024-4095B3B1A3C1}
       IID 40
       NAME "DTCK WOOD BREAK Large.wav"
